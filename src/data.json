@@ -1,0 +1,86 @@
+{
+  "story": [
+    {
+      "id": 1,
+      "title": "The Lord of the Rings",
+      "content": "The Lord of the Rings is an epic high fantasy novel written by J.R.R. Tolkien, which was later fitted as a trilogy. The story began as a sequel to Tolkien's earlier fantasy book The Hobbit, and soon developed into a much larger story. At publication, it was divided into The Fellowship of the Ring, The Two Towers, and The Return of the King. Written in stages between 1937 and 1949, with much of it during World War II, it was originally published in three volumes in 1954 and 1955. It has since been reprinted numerous times and translated into at least 38 different languages, becoming one of the most popular works of twentieth-century literature. The action in The Lord of the Rings is set in what the author conceived to be the lands of the real Earth, inhabited by humanity but placed in a fictional past, before familiar history but after the fall of his version of Atlantis, Númenor. Tolkien gave this setting a modern English name, Middle-earth, a rendering of the Old English Middangeard."
+    },
+    {
+      "id": 2,
+      "title": "Main conflict",
+      "content": "Tolkien offered The Lord of the Rings to Allen Publishing & Unwin. According to Tolkien's plan, the Silmarillion should have been published simultaneously with The Lord of the Rings, but the publishing house did not go for it. Then in 1950 Tolkien offered his work to the Collins publishing house, but an employee of the publishing house Milton Waldman said that the novel 'urgently needs to be cut.' In 1952 Tolkien wrote again in Allen & Unwin. In particular, he wrote, 'I will gladly consider publishing any part of the text.' The publishing house agreed to publish the novel in its entirety and without 'cuts'. According to the contract, the author did not receive anything, but after the costs of publishing the book were paid off, the author received a significant share of sales. Due to the lack of paper in the post-war period, the publishers asked Tolkien to split the novel into 6 books with no titles. Then, for convenience, they were combined in pairs by the publisher into three parts, which were called the 'Brotherhood of the Ring' (or 'Commonwealth of the Ring' or 'Guardians', Eng. The Fellowship of the Ring; books 1 and 2), 'Two Fortresses' (or 'Two Towers' or 'Two Strongholds', Eng. The Two Towers; books 3 and 4), and 'The Return of the King' (or 'The Return of the Sovereign' Eng. The Return of the King; books 5 and 6, appendices). Tolkien himself was against the division of his novel into these parts and agreed to it only when no publisher agreed to print the whole book. The point here was both the lack of paper, and the reduction in the price of the first volume, and the evaluation of the success of the series. Due to delays in the creation of a map of Middle-earth and applications, the novel was printed only in 1954-1955. Three parts were published in England on July 29, 1954, November 11, 1954 and October 20, 1955, and somewhat later in the USA. The delay in the publication of the last part was caused, in particular, by disputes over its title. Tolkien did not like 'The Return of the King' and he suggested calling this part 'The War of the Ring', but the publishers resisted and insisted on their own version. Since then, the Lord of the Rings has been called a trilogy. Tolkien himself used this term, although in other cases he said that it was wrong. The novel was published by various publishers in one, two, three, six or seven volumes. The book was received by the public in different ways. In general, most of the reviews were positive, and Tolkien's colleagues at the Inklings club were simply delighted. John's friend, Clive S. Lewis, predicted that the book would outlive its time. At the same time, many newspaper critics noted conservatism and insufficient depth of characters. Critic Edmund Wilson noted that Tolkien's book would be better suited to a younger audience, rather than adults."
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Fellowship of the Ring (2001)",
+      "description": "In the Second Age of Middle-earth, the lords of Elves, Dwarves, and Men are given Rings of Power. Unbeknownst to them, the Dark Lord Sauron forges the One Ring in Mount Doom, instilling into it a great part of his power, to dominate the other Rings so he might conquer Middle-earth. A final alliance of Men and Elves battles Sauron's forces in Mordor. Isildur of Gondor severs Sauron's finger and the Ring with it, thereby vanquishing Sauron and returning him to spirit form. With Sauron's first defeat, the Third Age of Middle-earth begins. The Ring's influence corrupts Isildur, who takes it for himself and is later killed by Orcs. The Ring is lost in a river for 2,500 years until it is found by Gollum, who owns it for over four and a half centuries. The ring abandons Gollum and it is subsequently found by a hobbit named Bilbo Baggins, who is unaware of its history.",
+      "images": [
+        "/img/Gallery/Fellowship-of-the-Ring-poster-film.png",
+        "/img/Gallery/The-Fellowship-of-the-Ring-composite.png",
+        "/img/Gallery/Fellowship-of-the-Ring-poster-game.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Two Towers (2002)",
+      "description": "Awakening from a dream of Gandalf fighting the Balrog in Moria, Frodo Baggins finds himself, along with Samwise Gamgee, lost in the Emyn Muil near Mordor. They discover that they are being tracked by Gollum, a former bearer of the One Ring. Capturing Gollum, Frodo takes pity and allows him to guide them, reminding Sam that they will need Gollum's help to infiltrate Mordor. Aragorn, Legolas, and Gimli pursue a band of Uruk-hai to save their companions Merry and Pippin, entering the kingdom of Rohan. The Uruk-hai are ambushed by a group of Rohirrim, allowing Merry and Pippin to escape into Fangorn Forest. Meeting Aragorn's group, the Rohirrim's leader Éomer explains that he and his men have been exiled by Rohan's king, Théoden, who is under the control of Saruman and his servant Gríma Wormtongue. Éomer believes Merry and Pippin were killed during the raid but leaves the group two horses. In Fangorn, Aragorn's group encounters Gandalf, who after his fight against the Balrog was resurrected as Gandalf the White to help save Middle-earth.",
+      "images": [
+        "/img/Gallery/two-towers-game.png",
+        "/img/Gallery/two-towers-legolas.png",
+        "/img/Gallery/two-towers-book.png"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Aragorn",
+      "image": "/img/aragorn.jpg",
+      "description": "The last leader of the pathfinders and the first king of the Reunited Kingdom, a direct descendant of the northern branch of the royal family of Elendil (along the line of Isildur, its elder branch — the dynasty of Amlait of Artedain). One of the last representatives of the Numenorians."
+    },
+    {
+      "id": 2,
+      "name": "Marry",
+      "image": "/img/marry.jpg",
+      "description": "Meriadoc Brandybuck, usually called Merry, is a Hobbit, a fictional character from J. R. R. Tolkien's Middle-earth legendarium, featured throughout his most famous work, The Lord of the Rings."
+    },
+    {
+      "id": 3,
+      "name": "Sam",
+      "image": "/img/sam.jpg",
+      "description": "Samwise Gamgee, known as Sam, was a hobbit of the Shire. He was Frodo Baggins' gardener and best friend. Sam proved himself to be Frodo's closest and most dependable companion, the most loyal of the Fellowship of the Ring, and played a critical role in protecting Frodo and destroying the One Ring."
+    },
+    {
+      "id": 4,
+      "name": "Sauron",
+      "image": "/img/sauron.jpg",
+      "description": "Sauron, the eponymous Lord of the Rings, was the greatest subversive Maia, the maker of the One Ring, renowned student of the Vala Aulë, and the most trusted lieutenant of Morgoth. After Morgoth's ousting by the Valar."
+    },
+    {
+      "id": 5,
+      "name": "Gandalf",
+      "image": "/img/gendalf.jpg",
+      "description": "Gandalf the Grey, later known as Gandalf the White, and originally named Olórin, was an Istar (Wizard), dispatched to Middle-earth in the Third Age to combat the threat of Sauron. He joined Thorin II Oakenshield and his company to reclaim the Lonely Mountain from Smaug, helped form the Fellowship of the Ring to destroy the One Ring, and led the Free Peoples in the final campaign of the War of the Ring."
+    },
+    {
+      "id": 6,
+      "name": "Bilbo",
+      "image": "/img/bilbo.jpg",
+      "description": "Bilbo Baggins was a Hobbit of the Shire, the main protagonist of The Hobbit and a secondary character in The Lord of the Rings. Gandalf suggested to Thorin and Company that they hire Bilbo Baggins to be their burglar in the Quest of Erebor, and later fought in the Battle of Five Armies"
+    },
+    {
+      "id": 7,
+      "name": "Frodo",
+      "image": "/img/frodo.jpg",
+      "description": "Frodo Baggins, son of Drogo Baggins, was a hobbit of the Shire in the late Third Age. He is commonly considered Tolkien's most renowned character for his leading role in the Quest of the Ring, in which he bore the One Ring to Mount Doom, where it was destroyed. He was a Ring-bearer, best friend to his gardener, Samwise Gamgee, and was one of three hobbits who sailed from Middle-earth to the Uttermost West at the end of the Third Age."
+    },
+    {
+      "id": 8,
+      "name": "Legolas",
+      "image": "/img/legolas.jpg",
+      "description": "Legolas was a Sindar Elf who was part of the Fellowship of the Ring in the Third Age. Son of the Elvenking Thranduil of Mirkwood, Legolas was Mirkwood's prince, a messenger, and a master archer. With his keen eyesight, sensitive hearing, and excellent bowmanship, Legolas was valuable to the Fellowship in their journey across Middle-earth. He was well-known for becoming friends with the Dwarf Gimli, despite their long-held differences."
+    }
+  ]
+}
