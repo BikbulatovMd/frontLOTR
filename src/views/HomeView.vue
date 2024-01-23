@@ -1,15 +1,19 @@
 <script>
-import { mapState } from 'pinia'
+// import { mapState } from 'pinia'
 
 import { useStoryStore } from '@/stores/story'
 
 export default {
   data() {
-    return {}
+    const store = useStoryStore()
+
+    return {
+      chapters: store.chapters
+    }
   },
 
   computed: {
-    ...mapState(useStoryStore, ['chapters'])
+    // ...mapState(useStoryStore, ['chapters'])
   }
 }
 </script>
