@@ -23,7 +23,7 @@ export default {
   },
 
   computed: {
-    ...mapState(useCharactersStore, ['filteredCharacters', 'characters']),
+    ...mapState(useCharactersStore, ['filteredCharacters']),
 
     characters() {
       return this.filteredCharacters(this.filter)
